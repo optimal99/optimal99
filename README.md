@@ -7,7 +7,7 @@
 </header>
 <main>
   <section>
-    <p align='center'>🖥여유 있는 개발과 깊이 있는 사고로, 안정적인 시스템을 구축하는 풀스택 개발자입니다.</p>
+    <p align='center'>🖥여유 있는 개발과 깊이 있는 사고로, 안정적인 시스템을 구축하는 개발자입니다.</p>
     <p align='center'>Email :
       stegano9744@gmail.com</p>
   </section>
