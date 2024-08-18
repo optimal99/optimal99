@@ -107,13 +107,13 @@
           </td>
           <td>
             <img alt="icon" height="65"
-                 src="https://i.namu.wiki/i/fwrneEj5OITxodWS4WV12YxSVqrqeQhJrkGGGEBbf30w2u1LUmKEgS3bGSshbTR199_N5CjRox6dNxo5dAQtLXVyc-XxJQLv31gqALZkpO19HhTx0WquAbeIhmSu_0Bk4ebqxGMEgdIXNHIj38Hizg.svg"
+                 src="https://github.com/user-attachments/assets/057b9e14-6311-4b4c-b13f-4e0f2d072c54"
                  width="65" />
             <img alt="icon" height="65"
                  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*rCK7fhfY9jb-osA77oaOAQ.png"
                  width="65" />
             <img alt="icon" height="65"
-                 src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/DATAGRIP-550x550.png"
+                 src="https://github.com/user-attachments/assets/1b7fe4ae-8435-4203-82f8-e7fb3c170ac2"
                  width="65" />
             <img alt="icon" height="65"
                  src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"
